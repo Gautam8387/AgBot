@@ -38,3 +38,8 @@ We made most of the AgBot from the scratch, but did refer to the following resou
 - [Raspberry Pi Webcam Server and Stream Live Video](https://www.instructables.com/How-to-Make-Raspberry-Pi-Webcam-Server-and-Stream-/)
 
 - [Green Analysis and Image Masking](https://www.tutorialspoint.com/how-to-mask-an-image-in-opencv-python)
+
+## Team
+We are a team of two:
+- [Gautam Ahuja](https://www.linkedin.com/in/gautam8387/)
+- [Aaryan Nagpal](https://www.linkedin.com/in/aaryannagpal/)
